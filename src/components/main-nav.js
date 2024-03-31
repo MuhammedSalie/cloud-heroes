@@ -25,6 +25,14 @@ const MainNav = () => {
       >
         Home
     </NavLink>
+    <NavLink
+        to="/quiz"
+        exact
+        className="nav-link"
+        activeClassName="router-link-exact-active"
+      >
+        Quiz
+    </NavLink>
       {isAuthenticated && (
         <NavLink
           to="/profile"

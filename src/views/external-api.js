@@ -1,7 +1,7 @@
-import React, { useState } from "react";
+//import React, { useState } from "react";
 
 const ExternalApi = () => {
-  const [message, setMessage] = useState("");
+ // const [message, setMessage] = useState("");
 
   return (
     <div>
@@ -25,13 +25,13 @@ const ExternalApi = () => {
         </button>
       </div>
 
-      {message && (
+      {"test" (
         <div className="mt-5">
           <h6 className="muted">Result</h6>
           <div className="container-fluid">
             <div className="row">
               <code className="col-12 text-light bg-dark p-4">
-                {JSON.stringify(message, null, 2)}
+               {JSON.stringify("test", null, 2)}
               </code>
             </div>
           </div>

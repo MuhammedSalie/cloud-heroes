@@ -1,18 +1,18 @@
-.next-steps .fa-link {
+.hello .fa-link {
   margin-right: 5px;
 }
 
 /* Fix for use only flexbox in content area */
-.next-steps .row {
+.hello .row {
   margin-bottom: 0;
 }
 
-.next-steps .col-md-5 {
+.hello .col-md-5 {
   margin-bottom: 3rem;
 }
 
 @media (max-width: 768px) {
-  .next-steps .col-md-5 {
+  .hello .col-md-5 {
     margin-bottom: 0;
   }
 }
