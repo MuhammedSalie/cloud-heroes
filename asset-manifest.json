@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MuhammedSalie/cloud-heroes.git/static/css/main.9ff25e03.chunk.css",
+    "main.js": "/MuhammedSalie/cloud-heroes.git/static/js/main.b9370b46.chunk.js",
+    "main.js.map": "/MuhammedSalie/cloud-heroes.git/static/js/main.b9370b46.chunk.js.map",
+    "runtime-main.js": "/MuhammedSalie/cloud-heroes.git/static/js/runtime-main.c016e1e5.js",
+    "runtime-main.js.map": "/MuhammedSalie/cloud-heroes.git/static/js/runtime-main.c016e1e5.js.map",
+    "static/js/2.7be696e8.chunk.js": "/MuhammedSalie/cloud-heroes.git/static/js/2.7be696e8.chunk.js",
+    "static/js/2.7be696e8.chunk.js.map": "/MuhammedSalie/cloud-heroes.git/static/js/2.7be696e8.chunk.js.map",
+    "index.html": "/MuhammedSalie/cloud-heroes.git/index.html",
+    "static/css/main.9ff25e03.chunk.css.map": "/MuhammedSalie/cloud-heroes.git/static/css/main.9ff25e03.chunk.css.map",
+    "static/js/2.7be696e8.chunk.js.LICENSE.txt": "/MuhammedSalie/cloud-heroes.git/static/js/2.7be696e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c016e1e5.js",
+    "static/js/2.7be696e8.chunk.js",
+    "static/css/main.9ff25e03.chunk.css",
+    "static/js/main.b9370b46.chunk.js"
+  ]
+}
