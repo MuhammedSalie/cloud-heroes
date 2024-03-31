@@ -1,7 +1,7 @@
 {
-  "name": "auth0-react-sample",
+  "name": "cloud-heroes",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@auth0/auth0-react": "^1.4.0",
     "npx": "^10.2.2",
