@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MuhammedSalie/cloud-heroes.git/static/css/main.9ff25e03.chunk.css",
-    "main.js": "/MuhammedSalie/cloud-heroes.git/static/js/main.b9370b46.chunk.js",
-    "main.js.map": "/MuhammedSalie/cloud-heroes.git/static/js/main.b9370b46.chunk.js.map",
-    "runtime-main.js": "/MuhammedSalie/cloud-heroes.git/static/js/runtime-main.c016e1e5.js",
-    "runtime-main.js.map": "/MuhammedSalie/cloud-heroes.git/static/js/runtime-main.c016e1e5.js.map",
-    "static/js/2.7be696e8.chunk.js": "/MuhammedSalie/cloud-heroes.git/static/js/2.7be696e8.chunk.js",
-    "static/js/2.7be696e8.chunk.js.map": "/MuhammedSalie/cloud-heroes.git/static/js/2.7be696e8.chunk.js.map",
-    "index.html": "/MuhammedSalie/cloud-heroes.git/index.html",
-    "static/css/main.9ff25e03.chunk.css.map": "/MuhammedSalie/cloud-heroes.git/static/css/main.9ff25e03.chunk.css.map",
-    "static/js/2.7be696e8.chunk.js.LICENSE.txt": "/MuhammedSalie/cloud-heroes.git/static/js/2.7be696e8.chunk.js.LICENSE.txt"
+    "main.css": "/cloud-heroes/static/css/main.9ff25e03.chunk.css",
+    "main.js": "/cloud-heroes/static/js/main.772225bb.chunk.js",
+    "main.js.map": "/cloud-heroes/static/js/main.772225bb.chunk.js.map",
+    "runtime-main.js": "/cloud-heroes/static/js/runtime-main.d7a9d083.js",
+    "runtime-main.js.map": "/cloud-heroes/static/js/runtime-main.d7a9d083.js.map",
+    "static/js/2.7be696e8.chunk.js": "/cloud-heroes/static/js/2.7be696e8.chunk.js",
+    "static/js/2.7be696e8.chunk.js.map": "/cloud-heroes/static/js/2.7be696e8.chunk.js.map",
+    "index.html": "/cloud-heroes/index.html",
+    "static/css/main.9ff25e03.chunk.css.map": "/cloud-heroes/static/css/main.9ff25e03.chunk.css.map",
+    "static/js/2.7be696e8.chunk.js.LICENSE.txt": "/cloud-heroes/static/js/2.7be696e8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c016e1e5.js",
+    "static/js/runtime-main.d7a9d083.js",
     "static/js/2.7be696e8.chunk.js",
     "static/css/main.9ff25e03.chunk.css",
-    "static/js/main.b9370b46.chunk.js"
+    "static/js/main.772225bb.chunk.js"
   ]
 }
